@@ -84,7 +84,7 @@
                   });
                   
                   katangetik = "<b>Terakhir, aku cuma mau bilang:</b><br><br><i>im very lucky to have you!</i> aku suka<br>semua tentang kamu, aku suka banget<br>denger suara kamu yang selalu bikin<br>aku tenang, pokoknya aku suka<br>semuanya tentang kamu.<br><br>Tetaplah menjadi tujuanku yaa, jangan<br>menjauh, jangan pergi, dan jangan<br>berpindah ke lain hati, aku sayang<br>kamu selaluuu <333333";
-                  katangetik2 = "<i>i love uuuu 💞🤍💝❣️</i>";
+                  katangetik2 = "<i>i love uuuu Bu Windy 💞🤍💝❣️</i>";
                   
                   pesanwhatsapp = "ilvyou too 💞🤍💝❣️";
                  setTimeout(kpemb,200);
