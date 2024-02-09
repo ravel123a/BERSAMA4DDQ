@@ -6,7 +6,7 @@
   <link href="https://htmlku.com/dariku/style.css" rel="stylesheet" type="text/css" />
 
 <head>
-<title>Semoga Suskes Kedepannya Family Karawaci</title>
+<title>Semoga Suskes Kedepannya Family BERSAMA</title>
 </head>
 <body>
 	
@@ -67,7 +67,7 @@
        
        async function pesan(){
              	await swalst.fire({
-                  title: 'Heyy Family BERSAMA4D! 😍', 
+                  title: 'KAMI KELUARGA BESAR BERSAMA4D MENGUCAPKAN! 😍', 
                   imageUrl: '' + fotoakhir1.src,
                   });   	
                  await swalst.fire({
