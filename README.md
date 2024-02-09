@@ -6,20 +6,20 @@
   <link href="https://htmlku.com/dariku/style.css" rel="stylesheet" type="text/css" />
 
 <head>
-<title>Script HTML Pesan Dariku - feeldream</title>
+<title>Semoga Suskes Kedepannya Family Karawaci</title>
 </head>
 <body>
 	
    <div id="bodyblur">
-     <!-- Wallpaper / Background --><img src="https://feeldreams.github.io/pics/awan/2.jpg" id="wallpaper"/>
+     <!-- Wallpaper / Background --><img src="https://i.postimg.cc/T3B0WY5p/foto-15-ucapan-selamat-Imlek-2024-mandarin-2730033343.jpg" id="wallpaper"/>
    </div>
   
   <div class="kumpulanstiker">
          <!-- Stiker untuk Konten -->
-         <img src="https://htmlku.com/0/panda/pusn.gif" id="fotoakhir1"/>
-         <img src="https://feeldreams.github.io/mndkat.gif" id="fotoakhir2"/>
-         <img src="https://i.ibb.co/xGc2wBh/cartoons.gif" id="fotoakhir3"/>
-         <img src="https://htmlku.com/0/panda/gemoy.gif" id="fotoakhir4"/>
+         <img src="https://i.postimg.cc/q7X03q0N/gong-xi-gong-xi-fa-cai.gif" id="fotoakhir1"/>
+         <img src="https://i.postimg.cc/pXYKwFBc/200w.gif" id="fotoakhir2"/>
+         <img src="https://i.postimg.cc/nhNVTdQy/5f043095982b5039f62151a61ab17662.gif" id="fotoakhir3"/>
+         <img src="https://i.postimg.cc/Tw6wzB2D/3f0bc10891c2d9c7234c40f7c694acda.gif" id="fotoakhir4"/>
   </div>
 
    <div id='Content'>
@@ -29,7 +29,7 @@
      </div>
      <p id="ket">Klik Suratnya!</p>
    
-     <div><!-- Foto Akhir --><img src="https://i.ibb.co/z7N6gKp/tos.gif" id="fotoakhir" /></div>
+     <div><!-- Foto Akhir --><img src="https://i.postimg.cc/pyN1CQJR/acie.gif" id="fotoakhir" /></div>
      <div><blockquote id='bq'>
        <p id="kalimat"></p>
        <p id="kalimatc"></p>
@@ -58,7 +58,7 @@
      atau bisa juga ke mailboxdrive.com -->
 
 <script type="text/javascript">
-       async function jawab(){await swals.fire('Kirim pesan ke WhatsApp aku, ya!');window.location = "https://api.whatsapp.com/send?phone=&text=" + pesanwhatsapp;}
+       async function jawab(){await swals.fire('Kirim pesan ke WhatsApp aku, ya!');window.location = "https://api.whatsapp.com/send/?phone=6289503998620&text&type=phone_number&app_absent=0https://api.whatsapp.com/send?phone=&text=" + pesanwhatsapp;}
 
        async function pertama(){
          audio = new Audio('https://feeldreams.github.io/almostday.mp3');setTimeout(showDiv,100);
@@ -67,24 +67,25 @@
        
        async function pesan(){
              	await swalst.fire({
-                  title: 'Heyy kamuuu! 😍', 
+                  title: 'Heyy Family BERSAMA4D! 😍', 
                   imageUrl: '' + fotoakhir1.src,
                   });   	
                  await swalst.fire({
-                  title: 'Semangat Jalani Harinya yaa 🥳',
+                  title: 'Selamat Tahun Baru Imlek 2024 🥳',
                   imageUrl: '' + fotoakhir2.src,
                   });
                  await swalst.fire({
-                  title: 'Tetap Jaga Kesehatan yaa 🫶',
+                  title: 'Tetap Sukses Untuk Kedepannya 🫶',
                   imageUrl: '' + fotoakhir3.src,
                   });
                  await swalst.fire({
-                  title: 'Dan Jangan Telat Makan 😍',
+                  title: 'Dan Semoga Semua Harapan Tercapaya Di Tahun 2024 Ini 😍',
                   imageUrl: '' + fotoakhir4.src,
                   });
                   
-                  katangetik = "<b>Terakhir, aku cuma mau bilang:</b><br><br><i>im very lucky to have you!</i> aku suka<br>semua tentang kamu, aku suka banget<br>denger suara kamu yang selalu bikin<br>aku tenang, pokoknya aku suka<br>semuanya tentang kamu.<br><br>Tetaplah menjadi tujuanku yaa, jangan<br>menjauh, jangan pergi, dan jangan<br>berpindah ke lain hati, aku sayang<br>kamu selaluuu <333333";
-                  katangetik2 = "<i>i love uuuu Bu Windy 💞🤍💝❣️</i>";
+                  katangetik = "<b>Terakhir, semoga sehat dan selalu sukses agar semua target bisa tercapai di tahun ini:</b><br><br><i>im very lucky to have you!</i> saya cuman mau ngomong<br>Mari move on dari semua keburukan di tahun lalu, dan melangkah dengan senyuman lebar menyambut Tahun Baru Imlek 2024 ini<br>Pada momen imlek tahun ini,<br> aku berharap bahwa kita semua selalu diberkatii kesehatan yang sempurna serta kemakmuran yang abadi<br>semuanya tentang tahun lalu."
+
+                  katangetik2 = "<i>Gong Xi Fa Cai! 💞🤍💝❣️</i>";
                   
                   pesanwhatsapp = "ilvyou too 💞🤍💝❣️";
                  setTimeout(kpemb,200);
