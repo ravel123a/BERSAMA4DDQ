@@ -6,12 +6,12 @@
   <link href="https://htmlku.com/dariku/style.css" rel="stylesheet" type="text/css" />
 
 <head>
-<title>Semoga Suskes Kedepannya Family BERSAMA</title>
+<title>Semoga Suskes Kedepannya Family Karawaci</title>
 </head>
 <body>
 	
    <div id="bodyblur">
-     <!-- Wallpaper / Background --><img src="https://i.postimg.cc/T3B0WY5p/foto-15-ucapan-selamat-Imlek-2024-mandarin-2730033343.jpg" id="wallpaper"/>
+     <!-- Wallpaper / Background --><img src="https://i.postimg.cc/3xpCDYKY/animasi-bergerak-naga-0211.gif" id="wallpaper"/>
    </div>
   
   <div class="kumpulanstiker">
@@ -67,7 +67,7 @@
        
        async function pesan(){
              	await swalst.fire({
-                  title: 'KAMI KELUARGA BESAR BERSAMA4D MENGUCAPKAN! 😍', 
+                  title: 'Hayy Family Karawaci! 😍', 
                   imageUrl: '' + fotoakhir1.src,
                   });   	
                  await swalst.fire({
